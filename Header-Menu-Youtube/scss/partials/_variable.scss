@@ -1,0 +1,20 @@
+$primary-font:'Poppins', sans-serif;
+$primary-color:#ec075d;
+$secondary-color:#292222;
+$default-link-color : #333;
+
+
+/// Media CSS
+
+$between-laptop-notebook:"(min-width:991px) and (max-width: 1200px)";
+$notebook-break-point: "screen and(max-width: 991px)";
+$laptop-break-point: "screen and(max-width: 1200px)";
+
+$bigger-notebook-break-point: "screen and(min-width: 991px)";
+$biggerlaptop-break-point: "screen and(min-width: 1200px)";
+
+
+
+// $between-notebook-laptop:  "(min-width: 991px) and (max-width: 1200px)";
+
+// $notebook-break-point:"screen and(max-width: 991px)";
